@@ -1,0 +1,15 @@
+{
+  "name": "jsx-transform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-syntax-jsx": "^7.12.1",
+    "@babel/plugin-transform-react-jsx": "^7.12.12",
+    "@babel/types": "^7.12.12"
+  },
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
